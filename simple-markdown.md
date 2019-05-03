@@ -27,7 +27,9 @@
 
 *This Text* is italic
 
-**This Text** is Bold
+**This Text** is bold
+
+__This Text__ is underline
 
 ```
 *This Text* is italic
