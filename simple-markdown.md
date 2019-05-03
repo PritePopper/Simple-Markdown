@@ -51,6 +51,8 @@ __This Text__ is bold
 
 ~~This Text~~ is strikethrough
 
+---
+
 ```
 
 * [Horizontal Rule]
