@@ -29,10 +29,12 @@
 
 **This Text** is bold
 
-__This Text__ is underline
+__This Text__ is bold
 
 ```
 *This Text* is italic
 
-**This Text** is Bold
+**This Text** is bold
+
+__This Text__ is bold
 ```
