@@ -26,9 +26,11 @@
 ---
 
 *This Text* is italic
+
 **This Text** is Bold
 
 ```
 *This Text* is italic
+
 **This Text** is Bold
 ```
