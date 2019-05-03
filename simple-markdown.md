@@ -53,4 +53,30 @@ __This Text__ is bold
 
 ```
 
+* [Horizontal Rule]
+
+---
+
+___
+
+```
+---
+
+___
+```
+---
+
+* [Blockquote]
+
+> This is quote
+
+```
+> This is quote
+```
+
+---
+
+* Busy
+* COMING SOON
+
 
