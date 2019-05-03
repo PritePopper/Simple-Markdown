@@ -1,6 +1,6 @@
 # Simple Markdown Text
 
-Check out here!
+* Check out here!
 
 ---
 
