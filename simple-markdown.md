@@ -4,6 +4,8 @@
 
 ---
 
+* [Heading]
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -13,7 +15,6 @@
 
 
 ```
-[Markdown]
 
 # Heading 1
 ## Heading 2
@@ -25,11 +26,21 @@
 
 ---
 
+* [Italic]
+
 *This Text* is italic
+
+_This Text_ is italic
+
+* [Bold]
 
 **This Text** is bold
 
 __This Text__ is bold
+
+* [Strikethrough]
+
+~~This Text~~ is strikethrough
 
 ```
 *This Text* is italic
@@ -37,4 +48,9 @@ __This Text__ is bold
 **This Text** is bold
 
 __This Text__ is bold
+
+~~This Text~~ is strikethrough
+
 ```
+
+
